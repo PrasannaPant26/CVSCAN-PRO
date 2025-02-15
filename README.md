@@ -1,4 +1,4 @@
-# CVSCAN-PRO
+# ATS-RESUME-TRACKER
 A web application that analyzes resumes for ATS (Applicant Tracking System) compatibility.
 Identifies missing keywords, provides detailed feedback, and suggests corrections for better job matching.
 Uses Gen AI for NLP-based job description analysis.
